@@ -7,7 +7,7 @@ export const StatisticsSection = styled.section`
     margin-right: auto;
     width: 300px;
     padding: 60px 60px;
-    background-color: #EEE8AA;
+    background-color: #2d2424;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 `;

@@ -6,7 +6,7 @@ width: 340px;
     margin: 0 auto;
     padding: 70px 50px;
     border-radius: 10px;
-    background-color: #bcdee6;
+    background-color: #2d2424;
      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 `;
 
@@ -15,7 +15,7 @@ export const Description = styled.div`
   height: 230px;
   margin: 0 auto;
   padding: 30px;
-  background-color: #ffffff;
+  background-color: #2460c9;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
